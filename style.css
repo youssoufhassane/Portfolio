@@ -1,0 +1,53 @@
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #6691cf;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+p {
+  font-family: math;
+  font-size: 20px;
+}
+h1 {
+  color: white;
+}
+
+h2 {
+  color: #6691cf;
+}
+h3 {
+  color: #0a67ec;
+}
+li {
+  font-family: math;
+  font-size: 20px;
+  text-indent: 20px;
+}
+
+.about,
+.projects,
+.skills,
+.education {
+  background-color: #f9f9f9;
+  padding: 40px 0;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+.overlay {
+  border-bottom: 3px solid #0a67ec;
+  margin: 0 25% 0 25%;
+}
